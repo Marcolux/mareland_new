@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter as MainRouter } from 'react-router-dom'
+import { HashRouter as MainRouter } from 'react-router-dom'
 
 import './style/index.scss';
 import './style/settings/settings.scss';
