@@ -1,0 +1,46 @@
+
+{
+  "name": "Single Folder Carousel",
+  "images": [
+    {
+      "src": "/single-carousel-folder/1.beach_boats_1.webp",
+      "alt": "beach_boats_1",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/2.MaReLand-boat-airplane-landing.webp",
+      "alt": "MaReLand-boat-airplane-landing",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/3.fish_drying.webp",
+      "alt": "fish_drying",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/4.fishermen_working.webp",
+      "alt": "fishermen_working",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/5.boats_at_sunset.webp",
+      "alt": "boats_at_sunset",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/6.Mareland_boats_pontile.jpg",
+      "alt": "Mareland_boats_pontile",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/7.MaReLand-Seppie.webp",
+      "alt": "MaReLand-Seppie",
+      "extraCaption": null
+    },
+    {
+      "src": "/single-carousel-folder/8.MaReLand-construction.webp",
+      "alt": "MaReLand-construction",
+      "extraCaption": null
+    }
+  ]
+}
