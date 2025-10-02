@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb32c584.css",
+    "main.js": "/static/js/main.e28fc09e.js",
+    "static/js/453.c54c29aa.chunk.js": "/static/js/453.c54c29aa.chunk.js",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/static/media/PlayfairDisplay-VariableFont_wght.bf46a6bcddc9999a295e.ttf",
+    "static/media/september-script.regular.ttf": "/static/media/september-script.regular.357314c66c7fd92cf74c.ttf",
+    "static/media/Merriweather-Regular.ttf": "/static/media/Merriweather-Regular.da67ca8c38ef44c4773d.ttf",
+    "static/media/Prata-Regular.ttf": "/static/media/Prata-Regular.2eeab737052a4ae3b2a9.ttf",
+    "static/media/Bison-Bold.ttf": "/static/media/Bison-Bold.0ec7f8e68fac9f1c4eef.ttf",
+    "static/media/Ledger-Regular.ttf": "/static/media/Ledger-Regular.af758062fdcbe3027bfd.ttf",
+    "static/media/BebasNeue-Regular.ttf": "/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "index.html": "/index.html",
+    "main.eb32c584.css.map": "/static/css/main.eb32c584.css.map",
+    "main.e28fc09e.js.map": "/static/js/main.e28fc09e.js.map",
+    "453.c54c29aa.chunk.js.map": "/static/js/453.c54c29aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb32c584.css",
+    "static/js/main.e28fc09e.js"
+  ]
+}
