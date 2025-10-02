@@ -40,7 +40,7 @@ const Reclamations = () => {
                     and ongoing activities on related topics in Malaysia, the broader Asian region, and beyond.
                     <br/>
                     <br/>For more information, you can get in touch with the Pierpaolo De Giosa via 
-                    pierpa.degios@zoho.com or pierpaolo.degiosa@upol.cz.
+                    pierpa.degios@zoho.com or pierpaolo.de.giosa@parisgeo.cnrs.fr
                 </p>
             <section id="publicationsSec" className="pb-25">
 

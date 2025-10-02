@@ -1,0 +1,168 @@
+@charset "UTF-8";
+.page#maReLand {
+  /*** 📱 Mobile & Tablet Adjustments ***/
+}
+.page#maReLand #MarelandPageSec {
+  width: 80%;
+  text-align: justify;
+  text-wrap: balance;
+  -webkit-hyphens: auto;
+          hyphens: auto;
+  border: 2px solid var(--navbar-before-color);
+  position: relative;
+  line-height: 22px;
+}
+.page#maReLand #MarelandPageSec sub {
+  line-height: normal;
+}
+.page#maReLand #MarelandPageSec::before {
+  content: "";
+  display: flex;
+  height: 30%;
+  width: 75%;
+  border-top: 2px solid var(--navbar-before-color);
+  border-right: 2px solid var(--navbar-before-color);
+  position: absolute;
+  right: -7px;
+  top: -7px;
+}
+.page#maReLand #MarelandPageSec::after {
+  content: "";
+  display: flex;
+  height: 20%;
+  width: 55%;
+  border-top: 2px solid var(--navbar-before-color);
+  border-right: 2px solid var(--navbar-before-color);
+  position: absolute;
+  right: -12px;
+  top: -12px;
+}
+.page#maReLand #MarelandPageSec .marelandPicTextSec {
+  position: relative;
+  width: 100%;
+  text-align: left;
+}
+.page#maReLand #MarelandPageSec .marelandPicTextSec p#textLogo {
+  width: 75%;
+  height: -moz-fit-content;
+  height: fit-content;
+  text-align: left;
+  text-wrap: balance;
+}
+.page#maReLand #MarelandPageSec .marelandPicTextSec #logoText {
+  width: 25%;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+}
+.page#maReLand #MarelandPageSec .marelandPicTextSec #logoText #logoPic {
+  min-width: 150px;
+  max-width: 180px;
+}
+.page#maReLand #MarelandPageSec .wikiPic {
+  justify-content: center;
+  align-items: center;
+}
+.page#maReLand #MarelandPageSec .wikiPic .img_sec {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.page#maReLand #MarelandPageSec .wikiPic .img_sec .siliconIsland {
+  width: 100%;
+  max-height: 50vh; /* Prevents images from stretching */
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+.page#maReLand #MarelandPageSec .wikiPic .img_sec sub {
+  font-size: 10px !important;
+  text-align: left !important;
+  text-wrap-style: auto;
+}
+.page#maReLand #MarelandPageSec #info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+@media screen and (max-width: 1024px) {
+  .page#maReLand {
+    width: 90%; /* More width on smaller screens */
+    padding: 10px;
+  }
+  .page#maReLand .marelandPicTextSec {
+    flex-direction: column; /* Stack elements */
+    align-items: center;
+    text-align: center;
+  }
+  .page#maReLand p#textLogo {
+    width: 100% !important;
+    text-align: justify;
+  }
+  .page#maReLand #logoText {
+    width: 50%;
+    max-width: 200px;
+    text-align: center;
+  }
+  .page#maReLand .wikiPic {
+    width: 100%;
+    text-align: center;
+  }
+  .page#maReLand .wikiPic .img_sec {
+    width: 90%;
+  }
+  .page#maReLand .siliconIsland {
+    max-height: 35vh; /* Smaller images for smaller screens */
+  }
+}
+@media screen and (max-width: 768px) {
+  .page#maReLand {
+    width: 95%;
+    padding: 5px;
+  }
+  .page#maReLand .marelandPicTextSec {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .page#maReLand #textLogo {
+    width: 100% !important;
+  }
+  .page#maReLand #logoText {
+    width: 60%;
+  }
+  .page#maReLand .wikiPic .img_sec {
+    width: 100%;
+  }
+  .page#maReLand .siliconIsland {
+    max-height: 30vh;
+  }
+  .page#maReLand #info {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 480px) {
+  .page#maReLand {
+    width: 98%;
+    padding: 35px 5px !important;
+  }
+  .page#maReLand #MarelandPageSec {
+    padding: 15px !important;
+    width: 90% !important;
+  }
+  .page#maReLand .marelandPicTextSec, .page#maReLand #textLogo {
+    text-align: left !important;
+  }
+  .page#maReLand #logoText {
+    width: 80%;
+    text-align: left !important;
+  }
+  .page#maReLand .img_sec {
+    width: 100% !important;
+  }
+  .page#maReLand .siliconIsland {
+    max-height: 25vh;
+  }
+}/*# sourceMappingURL=mareland.css.map */

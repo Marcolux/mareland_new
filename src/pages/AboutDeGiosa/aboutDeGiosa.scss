@@ -67,6 +67,10 @@
         .aboutText {
             background: rgb(255, 255, 255);
             text-align: justify;
+            line-height: 22px;
+            td.sctnHpTitles::after {
+                height: 0px !important;
+            }
             a { 
                 color: var(--navbar-before-color) !important; 
                 z-index: 22;
